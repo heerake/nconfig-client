@@ -1,0 +1,17 @@
+{
+  "name": "nconfig-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io-client": "^2.1.1"
+  },
+  "devDependencies": {
+    "@types/socket.io-client": "^1.4.32"
+  }
+}
